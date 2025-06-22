@@ -63,10 +63,6 @@ python predict.py
 
 ```
 roberta-indonesian-hate-tweet/
-├── model/                    # Trained model files
-│   ├── model.safetensors
-│   ├── config.json
-│   └── tokenizer files...
 ├── notebooks/               # Training notebooks
 │   └── main_train_roberta.ipynb
 ├── scripts/                # Prediction scripts
