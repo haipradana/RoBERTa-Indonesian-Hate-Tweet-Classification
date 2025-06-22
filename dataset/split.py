@@ -63,4 +63,4 @@ def split_dataset(csv_file, output_folder, train_ratio=0.7, test_ratio=0.15, val
     return train_df, test_df, val_df
 
 # Split dataset dengan rasio 70:15:15
-train_df, test_df, val_df = split_dataset('dataset.csv', 'huggingface_dataset')
+train_df, test_df, val_df = split_dataset('dataset.csv', 'splitted')
