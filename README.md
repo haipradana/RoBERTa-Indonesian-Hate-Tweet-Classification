@@ -1,4 +1,4 @@
-# roberta-indonesian-hate-tweet
+# RoBERTa Indonesian Hate Tweet Classification
 Fine-tuned RoBERTa model for Indonesian hate speech detection in tweets.
 
 ## 📋 Overview
