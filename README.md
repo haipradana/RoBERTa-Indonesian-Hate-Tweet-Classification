@@ -25,7 +25,9 @@ F1-Score:  82.19%
 
 ## 📈 Confusion Matrix
 
-![Confusion Matrix](image.png)
+<p align="center">
+    <img src="image.png" alt="Confusion Matrix" width="50%">
+</p>
 
 ## 🚀 Usage
 
