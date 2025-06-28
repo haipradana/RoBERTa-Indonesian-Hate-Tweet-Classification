@@ -50,7 +50,7 @@ def predict(text):
     return 'hate' if prediction == 1 else 'neutral'
 
 # Example
-result = predict("Paru-parumu terbuat dari batu ya? Sudah sakit gini masih aja merokok!")
+result = predict("Paru-parumu terbuat dari batu ya? udah sakit gini masih aja merokok!")
 print(result)  # Output: hate
 ```
 
